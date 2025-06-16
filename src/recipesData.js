@@ -23,7 +23,7 @@ const recipes = [
     {
       id: 4,
       title: 'Cassava Flakes',
-      ingredients: ['Cassava Flakes', 'Sugar', 'Milk', 'Floating Berries', 'Ice Block'],
+      ingredients: ['Cassava Flakes', 'Sugar', 'Milk', 'Floating Berries', 'Chocolate Crunching', 'Ice Block'],
       instructions: '1. Soak the cassava flakes best in cold water for about 30 seconds depending on how much you want it to rise \n2. Drain water and add your sugar\n3.\n4. Add your ice block\n5. Add milk and floating berries',
       cookingTime: 2
     },
